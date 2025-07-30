@@ -73,3 +73,10 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Ignore tous builds et données temporaires partout
+**/Binaries/*
+**/Intermediate/*
+**/Saved/*
+**/.idea/
+**/DerivedDataCache/*
