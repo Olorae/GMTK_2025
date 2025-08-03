@@ -29,6 +29,10 @@
 		{
 			"Name": "ConsoleVariables",
 			"Enabled": true
+		},
+		{
+			"Name": "OpenImageDenoise",
+			"Enabled": false
 		}
 	]
 }
